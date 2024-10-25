@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Magnu\\source\\repos\\BlazorPlayground\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEEB00B-5D23-402E-9596-4341FF74F70C}|BlazorPlayground\\BlazorPlayground\\BlazorPlayground.csproj|c:\\users\\magnu\\source\\repos\\blazorplayground\\blazorplayground\\blazorplayground\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBEEB00B-5D23-402E-9596-4341FF74F70C}|BlazorPlayground\\BlazorPlayground\\BlazorPlayground.csproj|solutionrelative:blazorplayground\\blazorplayground\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEEB00B-5D23-402E-9596-4341FF74F70C}|BlazorPlayground\\BlazorPlayground\\BlazorPlayground.csproj|c:\\users\\magnu\\source\\repos\\blazorplayground\\blazorplayground\\blazorplayground\\wwwroot\\js\\interop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DBEEB00B-5D23-402E-9596-4341FF74F70C}|BlazorPlayground\\BlazorPlayground\\BlazorPlayground.csproj|solutionrelative:blazorplayground\\blazorplayground\\wwwroot\\js\\interop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6677AD70-54EF-4FD3-9835-E4074FB7B18C}|BlazorPlayground\\BlazorPlayground.Client\\BlazorPlayground.Client.csproj|c:\\users\\magnu\\source\\repos\\blazorplayground\\blazorplayground\\blazorplayground.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6677AD70-54EF-4FD3-9835-E4074FB7B18C}|BlazorPlayground\\BlazorPlayground.Client\\BlazorPlayground.Client.csproj|solutionrelative:blazorplayground\\blazorplayground.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Magnu\\source\\repos\\BlazorPlayground\\BlazorPlayground\\BlazorPlayground\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorPlayground\\BlazorPlayground\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Magnu\\source\\repos\\BlazorPlayground\\BlazorPlayground\\BlazorPlayground\\Components\\App.razor*",
+              "RelativeToolTip": "BlazorPlayground\\BlazorPlayground\\Components\\App.razor*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T07:02:19.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "interop.js",
+              "DocumentMoniker": "C:\\Users\\Magnu\\source\\repos\\BlazorPlayground\\BlazorPlayground\\BlazorPlayground\\wwwroot\\js\\interop.js",
+              "RelativeDocumentMoniker": "BlazorPlayground\\BlazorPlayground\\wwwroot\\js\\interop.js",
+              "ToolTip": "C:\\Users\\Magnu\\source\\repos\\BlazorPlayground\\BlazorPlayground\\BlazorPlayground\\wwwroot\\js\\interop.js",
+              "RelativeToolTip": "BlazorPlayground\\BlazorPlayground\\wwwroot\\js\\interop.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T07:00:15.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Magnu\\source\\repos\\BlazorPlayground\\BlazorPlayground\\BlazorPlayground.Client\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorPlayground\\BlazorPlayground.Client\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Magnu\\source\\repos\\BlazorPlayground\\BlazorPlayground\\BlazorPlayground.Client\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorPlayground\\BlazorPlayground.Client\\Pages\\Home.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T06:53:53.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

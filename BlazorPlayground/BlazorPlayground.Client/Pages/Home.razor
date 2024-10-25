@@ -1,0 +1,19 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<div @ref="myDiv">This is a div</div>
+
+<button class="btn btn-primary" @onclick="ChangeDivContent">Change Content</button>
+
+@code {
+    private ElementReference myDiv;
+
+    [Inject]
+    private IJSRuntime JS { get; set; } = default!;
+
+    private async Task ChangeDivContent()
+    {
+        await JS.InvokeVoidAsync("setDivContent", myDiv, "Content update through ElementReference!");
+    }
+}
